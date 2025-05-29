@@ -94,3 +94,6 @@ pip install -e .  -i https://pypi.tuna.tsinghua.edu.cn/simple/
 
 
 langgraph dev
+
+
+# 常见问题，依赖包安装顺序，先安装langgraph-cli[inmem]，再进行 pip install   -e .  -i https://pypi.tuna.tsinghua.edu.cn/simple/
