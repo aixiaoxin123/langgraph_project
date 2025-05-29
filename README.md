@@ -6,5 +6,20 @@ https://langchain-ai.github.io/langgraph/concepts/why-langgraph/
 
 
 # 学习目标
-先学习第一部分，了解基本概念，然后学习第二部分，了解如何使用。
+
+本系列专题，会介绍
+第一部分-基础知识、
+
+第二部分-预构建的代理、
+
+第三部分-部署LangGraph Platform教程、
+
+第四部分-实战demo示例：
+
+1、1-向量嵌入与检索；
+
+2、2-RAG应用的agent实战；
+
+
+
 
