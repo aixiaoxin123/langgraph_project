@@ -70,7 +70,7 @@ from langgraph.prebuilt import create_react_agent
 import os
 from langchain.chat_models import init_chat_model
 
-API_KEY = "sk-0b4f77927fd7433a971667ed48da63f4"
+API_KEY = "sk-123"
 
 BASE_URL = "https://api.deepseek.com"
 
